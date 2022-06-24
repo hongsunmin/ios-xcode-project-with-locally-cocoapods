@@ -1,0 +1,16 @@
+PODS:
+  - CoreProject (1.0.0)
+
+DEPENDENCIES:
+  - CoreProject (from `../CoreProject`)
+
+EXTERNAL SOURCES:
+  CoreProject:
+    :path: "../CoreProject"
+
+SPEC CHECKSUMS:
+  CoreProject: 350a8f13ee1f54ed86abf38cd14efa41c8694ab5
+
+PODFILE CHECKSUM: d6bb4d1de551cd303655114f6df69d4cedb16b25
+
+COCOAPODS: 1.8.4
